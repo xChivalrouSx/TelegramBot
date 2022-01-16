@@ -66,7 +66,7 @@ def main():
     updater = Updater(constants.TELEGRAM_BOT_TOKEN)
     dp = updater.dispatcher
 
-    dp.add_handler(CommandHandler(constants.COMMAND_START, start))
+    dp.add_handler(CommandHandler(Constants.COMMAND_START, start))
     dp.add_handler(CommandHandler(Constants.COMMAND_ABOUT, about))
     dp.add_handler(CommandHandler(Constants.COMMAND_WEATHER, weather))
 
