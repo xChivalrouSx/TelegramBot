@@ -19,5 +19,5 @@ I used this two repositories:
 
 <p float="left">
   <img src="./app-images/telegram-bot-00.jpg" alt="Image - 1" width="250"/> 
-  <img src="./app-images/telegram-bot-01.jpg" alt="Image - 2" width="250"/> |
+  <img src="./app-images/telegram-bot-01.jpg" alt="Image - 2" width="250"/>
 </p>
