@@ -1,5 +1,5 @@
 # TelegramBot
-### A Telegram bot for some different usage
+### A Telegram bot for get weather information
 ---
 
 This Telegram Bot gives you the current weather for specific location. 
